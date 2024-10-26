@@ -4,3 +4,6 @@ php_version: '7.4'
 
 # For Debian OSes only.
 php_versions_install_recommends: false
+
+# Cette variable sert à piloterla configuration des repos APT
+config_system: true
