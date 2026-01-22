@@ -47,3 +47,12 @@ php_versions_debian:
   - php8.0-common
   - php8.1-common
   - php8.2-common
+  - php8.3-common
+  - php8.4-common
+  - php8.5-common
+  - php8.6-common
+  - php8.7-common
+  - php8.8-common
+  - php8.9-common
+  - php9.0-common
+  - php9.1-common
